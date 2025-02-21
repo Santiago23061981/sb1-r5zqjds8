@@ -18,7 +18,7 @@ const Header = () => {
               className="h-16 w-auto object-contain"
             />
           </div>
-
+          <h1>SI VEZ ESTO, PUDISTE REVISAR MIS CAMBIOS</h1>
           {/* Desktop Navigation */}
           <nav className="hidden md:flex space-x-8">
             <Link to="/" className="text-gray-600 hover:text-blue-600">Inicio</Link>
